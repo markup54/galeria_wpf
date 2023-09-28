@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Galeria4P/1.0.0": {
+        "runtime": {
+          "Galeria4P.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Galeria4P/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
